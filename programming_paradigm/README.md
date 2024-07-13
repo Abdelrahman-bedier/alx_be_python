@@ -1,0 +1,1 @@
+This project introduces you to the fundamental concepts of Object-Oriented Programming (OOP) in Python and Exception Handling. You’ll learn about classes, objects, the benefits of OOP, explore how to handle errors gracefully, and be introduced to the basics of testing.
